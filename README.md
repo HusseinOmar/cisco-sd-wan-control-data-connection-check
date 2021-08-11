@@ -27,7 +27,7 @@ To use this code you will need:
 
 ```
 git clone https://github.com/HusseinOmar/cisco-sd-wan-control-data-connection-check.git
-cd SD-WAN-health-check
+cd cisco-sd-wan-control-data-connection-check
 ```
 - Setup Python Virtual Environment (requires Python 3.7+)
 
