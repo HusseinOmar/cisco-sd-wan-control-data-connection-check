@@ -1,0 +1,623 @@
+
+=================================================================
+Partial BFD connections Report - 2021-08-09 13:14:58.311744
+Total Number of devices with partial BFD connections: 14
+=================================================================
+
+        
+
+*** Device Info for hq-cedge02 ***
+-------------------------------------------
+site-id: 13
+system-ip: 1.1.13.2
+host-name: hq-cedge02
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: B2781ED6
+system-ip: 1.1.13.2
+device uptime: 2021-08-09 11:52:00
+last updated: 2021-08-09 12:55:20
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 22 (26)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.1.13.2-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:14:58
+====> 1.1.13.2-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:14:58
+====> 1.1.13.2-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:14:58
+====> 1.1.13.2-mpls-1.1.14.1-mpls-ipsec - down - Last updated: 2021-08-09 13:14:58
+
+====> 1.1.13.2 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: GigabitEthernet1 - 
+=======> Down BFD Sessions: 1
+=======> Up BFD Sessions: 8
+=======> Total BFD Sessions: 9
+
+        
+=> Interface: GigabitEthernet7.98 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device hq-cedge02 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for dc2-vedge02 ***
+-------------------------------------------
+site-id: 12
+system-ip: 1.1.12.2
+host-name: dc2-vedge02
+device-model: vedge-cloud
+software version: 20.3.2
+serial number: 812E61E9
+system-ip: 1.1.12.2
+device uptime: 2021-08-06 08:10:00
+last updated: 2021-08-09 12:55:19
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 22 (26)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.1.12.2-mpls-1.1.14.1-mpls-ipsec - down - Last updated: 2021-08-09 13:14:59
+====> 1.1.12.2-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:14:59
+====> 1.1.12.2-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:14:59
+====> 1.1.12.2-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:14:59
+
+====> 1.1.12.2 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: ge0/0 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+=> Interface: ge0/1 - 
+=======> Down BFD Sessions: 1
+=======> Up BFD Sessions: 8
+=======> Total BFD Sessions: 9
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device dc2-vedge02 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for dc1-vedge02 ***
+-------------------------------------------
+site-id: 11
+system-ip: 1.1.11.2
+host-name: dc1-vedge02
+device-model: vedge-cloud
+software version: 20.3.2
+serial number: C6E15D28
+system-ip: 1.1.11.2
+device uptime: 2021-08-06 08:10:00
+last updated: 2021-08-09 12:55:20
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 23 (27)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.1.11.2-mpls-1.1.14.1-mpls-ipsec - down - Last updated: 2021-08-09 13:15:00
+====> 1.1.11.2-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:00
+====> 1.1.11.2-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:00
+====> 1.1.11.2-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:00
+
+====> 1.1.11.2 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: ge0/0 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+=> Interface: ge0/1 - 
+=======> Down BFD Sessions: 1
+=======> Up BFD Sessions: 9
+=======> Total BFD Sessions: 10
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device dc1-vedge02 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for dc2-vedge01 ***
+-------------------------------------------
+site-id: 12
+system-ip: 1.1.12.1
+host-name: dc2-vedge01
+device-model: vedge-cloud
+software version: 20.3.2
+serial number: FD99DDBF
+system-ip: 1.1.12.1
+device uptime: 2021-08-06 08:10:00
+last updated: 2021-08-09 12:55:20
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 22 (26)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.1.12.1-mpls-1.1.14.1-mpls-ipsec - down - Last updated: 2021-08-09 13:15:02
+====> 1.1.12.1-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:02
+====> 1.1.12.1-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:02
+====> 1.1.12.1-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:02
+
+====> 1.1.12.1 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: ge0/0 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+=> Interface: ge0/1 - 
+=======> Down BFD Sessions: 1
+=======> Up BFD Sessions: 8
+=======> Total BFD Sessions: 9
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device dc2-vedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for hq-cedge01 ***
+-------------------------------------------
+site-id: 13
+system-ip: 1.1.13.1
+host-name: hq-cedge01
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: D93E0018
+system-ip: 1.1.13.1
+device uptime: 2021-08-09 11:52:00
+last updated: 2021-08-09 13:05:24
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 22 (26)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.1.13.1-mpls-1.1.14.1-mpls-ipsec - down - Last updated: 2021-08-09 13:15:03
+====> 1.1.13.1-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:03
+====> 1.1.13.1-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:03
+====> 1.1.13.1-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:03
+
+====> 1.1.13.1 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: GigabitEthernet1 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+=> Interface: GigabitEthernet7.99 - 
+=======> Down BFD Sessions: 1
+=======> Up BFD Sessions: 8
+=======> Total BFD Sessions: 9
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device hq-cedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for tier1a-cedge01 ***
+-------------------------------------------
+site-id: 1011
+system-ip: 1.101.1.1
+host-name: tier1a-cedge01
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: B61569F2
+system-ip: 1.101.1.1
+device uptime: 2021-08-09 11:52:00
+last updated: 2021-08-09 13:05:18
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 22 (26)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.101.1.1-mpls-1.1.14.1-mpls-ipsec - down - Last updated: 2021-08-09 13:15:05
+====> 1.101.1.1-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:05
+====> 1.101.1.1-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:05
+====> 1.101.1.1-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:05
+
+====> 1.101.1.1 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: GigabitEthernet1 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+=> Interface: GigabitEthernet7.99 - 
+=======> Down BFD Sessions: 1
+=======> Up BFD Sessions: 8
+=======> Total BFD Sessions: 9
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device tier1a-cedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for tier1b-cedge02 ***
+-------------------------------------------
+site-id: 1012
+system-ip: 1.101.2.2
+host-name: tier1b-cedge02
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: D986BDAB
+system-ip: 1.101.2.2
+device uptime: 2021-08-09 11:52:00
+last updated: 2021-08-09 12:51:06
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 24 (30)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.101.2.2-lte-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:07
+====> 1.101.2.2-lte-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:07
+====> 1.101.2.2-lte-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:07
+====> 1.101.2.2-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:07
+====> 1.101.2.2-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:07
+====> 1.101.2.2-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:07
+
+====> 1.101.2.2 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: GigabitEthernet1 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 12
+=======> Total BFD Sessions: 15
+
+        
+=> Interface: GigabitEthernet7.98 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 12
+=======> Total BFD Sessions: 15
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device tier1b-cedge02 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for tier1b-cedge01 ***
+-------------------------------------------
+site-id: 1012
+system-ip: 1.101.2.1
+host-name: tier1b-cedge01
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: E1EDABC3
+system-ip: 1.101.2.1
+device uptime: 2021-08-09 11:53:00
+last updated: 2021-08-09 12:51:09
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 24 (30)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.101.2.1-lte-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:09
+====> 1.101.2.1-lte-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:09
+====> 1.101.2.1-lte-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:09
+====> 1.101.2.1-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:09
+====> 1.101.2.1-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:09
+====> 1.101.2.1-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:09
+
+====> 1.101.2.1 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: GigabitEthernet1 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 12
+=======> Total BFD Sessions: 15
+
+        
+=> Interface: GigabitEthernet7.99 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 12
+=======> Total BFD Sessions: 15
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device tier1b-cedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for regional-spoke02-vedge01 ***
+-------------------------------------------
+site-id: 1402
+system-ip: 1.14.2.1
+host-name: regional-spoke02-vedge01
+device-model: vedge-cloud
+software version: 20.3.2
+serial number: 2663DB80
+system-ip: 1.14.2.1
+device uptime: 2021-08-09 11:49:00
+last updated: 2021-08-09 12:50:53
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 15 (18)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.14.2.1-public-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:10
+====> 1.14.2.1-public-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:10
+====> 1.14.2.1-public-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:10
+
+====> 1.14.2.1 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: ge0/0 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 15
+=======> Total BFD Sessions: 18
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device regional-spoke02-vedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for tier2a-cedge01 ***
+-------------------------------------------
+site-id: 121
+system-ip: 1.102.1.1
+host-name: tier2a-cedge01
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: 29E894BB
+system-ip: 1.102.1.1
+device uptime: 2021-08-09 11:53:00
+last updated: 2021-08-09 12:55:21
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 24 (28)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.102.1.1-mpls-1.1.14.1-mpls-ipsec - down - Last updated: 2021-08-09 13:15:12
+====> 1.102.1.1-lte-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:12
+====> 1.102.1.1-lte-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:12
+====> 1.102.1.1-lte-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:12
+
+====> 1.102.1.1 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: GigabitEthernet1 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 15
+=======> Total BFD Sessions: 18
+
+        
+=> Interface: GigabitEthernet2 - 
+=======> Down BFD Sessions: 1
+=======> Up BFD Sessions: 9
+=======> Total BFD Sessions: 10
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device tier2a-cedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for tier2b-cedge01 ***
+-------------------------------------------
+site-id: 122
+system-ip: 1.102.2.1
+host-name: tier2b-cedge01
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: 721BAC83
+system-ip: 1.102.2.1
+device uptime: 2021-08-09 11:52:00
+last updated: 2021-08-09 12:50:47
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 28 (34)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.102.2.1-lte-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:14
+====> 1.102.2.1-lte-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:14
+====> 1.102.2.1-lte-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:14
+====> 1.102.2.1-public-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:14
+====> 1.102.2.1-public-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:14
+====> 1.102.2.1-public-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:14
+
+====> 1.102.2.1 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: GigabitEthernet1 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+=> Interface: GigabitEthernet2 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device tier2b-cedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for tier3a-vedge01 ***
+-------------------------------------------
+site-id: 103
+system-ip: 1.1.103.1
+host-name: tier3a-vedge01
+device-model: vedge-cloud
+software version: 20.3.2
+serial number: 5AC2D97D
+system-ip: 1.1.103.1
+device uptime: 2021-08-09 11:50:00
+last updated: 2021-08-09 12:55:21
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 9 (10)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.1.103.1-mpls-1.1.14.1-mpls-ipsec - down - Last updated: 2021-08-09 13:15:15
+
+====> 1.1.103.1 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: ge0/0 - 
+=======> Down BFD Sessions: 1
+=======> Up BFD Sessions: 9
+=======> Total BFD Sessions: 10
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device tier3a-vedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for dc1-vedge01 ***
+-------------------------------------------
+site-id: 11
+system-ip: 1.1.11.1
+host-name: dc1-vedge01
+device-model: vedge-cloud
+software version: 20.3.2
+serial number: EA9E0365
+system-ip: 1.1.11.1
+device uptime: 2021-08-03 17:11:00
+last updated: 2021-08-09 12:50:52
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 14 (17)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.1.11.1-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:17
+====> 1.1.11.1-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:17
+====> 1.1.11.1-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:17
+
+====> 1.1.11.1 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: ge0/0 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device dc1-vedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for tier1a-cedge02 ***
+-------------------------------------------
+site-id: 1011
+system-ip: 1.101.1.2
+host-name: tier1a-cedge02
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: E7B01CE5
+system-ip: 1.101.1.2
+device uptime: 2021-08-09 11:52:00
+last updated: 2021-08-09 12:55:20
+
+*** BFD Connections Info ****
+----------------------------------------
+reachability: reachable
+BFD Connections: 22 (26)
+
+*** BFD Connections Details ****
+----------------------------------------
+        
+====> 1.101.1.2-biz-internet-1.14.1.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:18
+====> 1.101.1.2-biz-internet-1.1.14.2-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:18
+====> 1.101.1.2-biz-internet-1.1.14.1-public-internet-ipsec - down - Last updated: 2021-08-09 13:15:18
+====> 1.101.1.2-mpls-1.1.14.1-mpls-ipsec - down - Last updated: 2021-08-09 13:15:18
+
+====> 1.101.1.2 BFD TLOC Interfaces
+------------------------------------------------------
+        
+=> Interface: GigabitEthernet1 - 
+=======> Down BFD Sessions: 1
+=======> Up BFD Sessions: 8
+=======> Total BFD Sessions: 9
+
+        
+=> Interface: GigabitEthernet7.98 - 
+=======> Down BFD Sessions: 3
+=======> Up BFD Sessions: 14
+=======> Total BFD Sessions: 17
+
+        
+|<--------------------------------------------------------->|
+|------> End of Device tier1a-cedge02 data <---------|
+|<--------------------------------------------------------->|
+
+|<--------------------------------------------------------->|
+|------> End of Report data at 2021-08-09 13:15:21.013988 <---------|
+|<--------------------------------------------------------->|

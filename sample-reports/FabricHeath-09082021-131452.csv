@@ -1,0 +1,24 @@
+site-id,system-ip,host-name,reachability,status,device-type,board-serial,uuid,bfdSessions,controlConnections,device-model,version,validity
+1,1.1.1.10,vManage01,reachable,normal,vmanage,2E208E7C07B8021D656E374D796FF486C1DA09DF,08fdc091-037e-49ad-ae22-16fbd5dc9764,NA,(19/19),vmanage,20.3.2.1,valid
+1,1.1.1.12,vSmart01,reachable,normal,vsmart,2E208E7C07B8021D656E374D796FF486C1DA09E1,bccb762c-73ff-434a-b66b-8a0b30e119b7,NA,(14/14),vsmart,20.3.2,valid
+1,1.1.1.13,vSmart02,reachable,normal,vsmart,2E208E7C07B8021D656E374D796FF486C1DA09E5,8df7b507-9c6c-42d4-b7a2-10f1894e2587,NA,(15/15),vsmart,20.3.2,valid
+1,1.1.1.14,vSmart03,reachable,normal,vsmart,2E208E7C07B8021D656E374D796FF486C1DA09E3,17bb9366-a0f4-4d91-b5af-472c6b70bb5b,NA,(11/11),vsmart,20.3.2,valid
+1,1.1.1.15,vSmart04,reachable,normal,vsmart,2E208E7C07B8021D656E374D796FF486C1DA09E4,7169f30b-0552-4360-837d-813a0c14ad62,NA,(10/10),vsmart,20.3.2,valid
+1,1.1.1.11,vbond01,reachable,normal,vbond,2E208E7C07B8021D656E374D796FF486C1DA09E0,023efe88-2ddf-4106-90bd-a4e720e2ae27,NA,(0/0),vedge-cloud,20.3.2,valid
+11,1.1.11.1,dc1-vedge01,reachable,normal,vedge,EA9E0365,c11ff33d-25b0-45b6-a709-58b65f9abbff,14 (17),(3/3),vedge-cloud,20.3.2,valid
+11,1.1.11.2,dc1-vedge02,reachable,normal,vedge,C6E15D28,ffa358b5-a4d3-4b94-8ea5-0b308c85f612,23 (27),(3/3),vedge-cloud,20.3.2,valid
+12,1.1.12.1,dc2-vedge01,reachable,normal,vedge,FD99DDBF,20f7a478-eda8-4949-b3e1-ed282fc675ac,22 (26),(3/3),vedge-cloud,20.3.2,valid
+12,1.1.12.2,dc2-vedge02,reachable,normal,vedge,812E61E9,35ee4d5f-9623-47a7-8f73-3cd437becb58,22 (26),(3/3),vedge-cloud,20.3.2,valid
+13,1.1.13.1,hq-cedge01,reachable,normal,vedge,D93E0018,CSR-C2F64427-7D0B-48CD-8D49-A27924ED7D1D,22 (26),(3/3),vedge-CSR-1000v,17.03.01a.0.354,valid
+13,1.1.13.2,hq-cedge02,reachable,normal,vedge,B2781ED6,CSR-24A787D5-5C83-4578-900C-57E47F5A34F8,22 (26),(3/3),vedge-CSR-1000v,17.03.01a.0.354,valid
+14,1.1.14.1,regional-hub-cedge01,unreachable,normal,vedge,5854D6FB,CSR-A4A9B8EB-FC82-42C1-80A6-400D7D1F5CBC,--,unknown,vedge-CSR-1000v,17.03.01a.0.354,valid
+14,1.1.14.2,regional-hub-cedge02,unreachable,normal,vedge,746715C2,CSR-BEAF1155-A0C4-475C-99E0-26174C522B27,--,unknown,vedge-CSR-1000v,17.03.01a.0.354,valid
+1401,1.14.1.1,regional-spoke01-vedge01,unreachable,normal,vedge,7C0597CE,fbd46ff8-409f-4313-916b-a9becccdc811,--,unknown,vedge-cloud,20.3.2,valid
+1402,1.14.2.1,regional-spoke02-vedge01,reachable,normal,vedge,2663DB80,60411df6-5dca-41d0-b4b3-73891d26e48e,15 (18),(3/3),vedge-cloud,20.3.2,valid
+1011,1.101.1.1,tier1a-cedge01,reachable,normal,vedge,B61569F2,CSR-53D3BC42-6F6C-4529-8D03-4B2903D1E688,22 (26),(3/3),vedge-CSR-1000v,17.03.01a.0.354,valid
+1011,1.101.1.2,tier1a-cedge02,reachable,normal,vedge,E7B01CE5,CSR-FA7B0A20-10D6-4A69-9F5A-10FDF444989B,22 (26),(3/3),vedge-CSR-1000v,17.03.01a.0.354,valid
+1012,1.101.2.1,tier1b-cedge01,reachable,normal,vedge,E1EDABC3,CSR-F3EF66F0-A1E8-4C11-9C12-3C95ED91A2CC,24 (30),(5/5),vedge-CSR-1000v,17.03.01a.0.354,valid
+1012,1.101.2.2,tier1b-cedge02,reachable,normal,vedge,D986BDAB,CSR-212D9E25-AD84-4E18-9725-B3CDEABFE1A8,24 (30),(5/5),vedge-CSR-1000v,17.03.01a.0.354,valid
+121,1.102.1.1,tier2a-cedge01,reachable,normal,vedge,29E894BB,CSR-F3C1007E-A781-4194-8BC3-C22F12DABE42,24 (28),(3/3),vedge-CSR-1000v,17.03.01a.0.354,valid
+122,1.102.2.1,tier2b-cedge01,reachable,normal,vedge,721BAC83,CSR-71B50FB7-31E9-4720-8490-36060C2F17E4,28 (34),(5/5),vedge-CSR-1000v,17.03.01a.0.354,valid
+103,1.1.103.1,tier3a-vedge01,reachable,normal,vedge,5AC2D97D,721a7af9-3a90-4330-ad0e-43c9d13c88f7,9 (10),(3/3),vedge-cloud,20.3.2,valid

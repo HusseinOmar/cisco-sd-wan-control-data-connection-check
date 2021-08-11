@@ -1,0 +1,4 @@
+site-id,system-ip,host-name,reachability,device-model,version,board-serial,uuid,uptime-date,lastupdated
+14,1.1.14.2,regional-hub-cedge02,unreachable,vedge-CSR-1000v,17.03.01a.0.354,746715C2,CSR-BEAF1155-A0C4-475C-99E0-26174C522B27,2021-08-09 11:52:00,2021-08-09 12:32:56
+14,1.1.14.1,regional-hub-cedge01,unreachable,vedge-CSR-1000v,17.03.01a.0.354,5854D6FB,CSR-A4A9B8EB-FC82-42C1-80A6-400D7D1F5CBC,2021-08-09 11:51:00,2021-08-09 12:50:16
+1401,1.14.1.1,regional-spoke01-vedge01,unreachable,vedge-cloud,20.3.2,7C0597CE,fbd46ff8-409f-4313-916b-a9becccdc811,2021-08-09 11:49:00,2021-08-09 12:32:39

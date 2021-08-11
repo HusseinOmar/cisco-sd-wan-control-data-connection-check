@@ -1,0 +1,132 @@
+
+=================================================================
+Partial Control  connections Report - 2021-08-09 13:14:54.748782
+Total Number of devices with partial control connections: 2
+=================================================================
+
+    
+
+*** Device Info for tier1a-cedge01 ***
+-------------------------------------------
+site-id: 1011
+system-ip: 1.101.1.1
+host-name: tier1a-cedge01
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: B61569F2
+system-ip: 1.101.1.1
+device uptime: 2021-08-09 11:52:00
+last updated: 2021-08-09 13:05:18
+
+*** Control Connections Info ****
+----------------------------------------
+reachability: reachable
+vSmart Connections: 2 (4)
+        
+
+*** Control Connections History ****
+----------------------------------------
+No control connections history on mpls
+Local Error: DTLS connection failure. - DCONFAIL
+vBond side error: No Error.
+    
+
+----------------------------------------
+Interface GigabitEthernet1
+----------------------------------------
+transport color: biz-internet
+admin-state: up
+operational-state: up
+private-ip-address: 100.64.100.105
+public-ip-address: 100.64.100.105
+connections to vSmarts: 2
+connection to vManages: 1
+vManage connection preference: 5
+Configured as Last resort: No
+last connection time: 2021-08-09 11:53:00
+lastupdated: 2021-08-09 13:14:55
+        
+
+----------------------------------------
+Interface GigabitEthernet7.99
+----------------------------------------
+transport color: mpls
+admin-state: up
+operational-state: up
+private-ip-address: 10.251.99.1
+public-ip-address: 10.251.99.1
+connections to vSmarts: 0
+connection to vManages: 0
+vManage connection preference: 5
+Configured as Last resort: No
+last connection time: 2021-08-09 13:14:00
+lastupdated: 2021-08-09 13:14:55
+        
+|<--------------------------------------------------------->|
+|------> End of Device tier1a-cedge01 data <---------|
+|<--------------------------------------------------------->|
+
+
+*** Device Info for hq-cedge01 ***
+-------------------------------------------
+site-id: 13
+system-ip: 1.1.13.1
+host-name: hq-cedge01
+device-model: vedge-CSR-1000v
+software version: 17.03.01a.0.354
+serial number: D93E0018
+system-ip: 1.1.13.1
+device uptime: 2021-08-09 11:52:00
+last updated: 2021-08-09 13:05:24
+
+*** Control Connections Info ****
+----------------------------------------
+reachability: reachable
+vSmart Connections: 2 (4)
+        
+
+*** Control Connections History ****
+----------------------------------------
+No control connections history on mpls
+Local Error: DTLS connection failure. - DCONFAIL
+vBond side error: No Error.
+    
+
+----------------------------------------
+Interface GigabitEthernet1
+----------------------------------------
+transport color: biz-internet
+admin-state: up
+operational-state: up
+private-ip-address: 100.64.100.106
+public-ip-address: 100.64.100.106
+connections to vSmarts: 2
+connection to vManages: 1
+vManage connection preference: 5
+Configured as Last resort: No
+last connection time: 2021-08-09 11:54:00
+lastupdated: 2021-08-09 13:14:57
+        
+
+----------------------------------------
+Interface GigabitEthernet7.99
+----------------------------------------
+transport color: mpls
+admin-state: up
+operational-state: up
+private-ip-address: 10.252.99.1
+public-ip-address: 10.252.99.1
+connections to vSmarts: 0
+connection to vManages: 0
+vManage connection preference: 5
+Configured as Last resort: No
+last connection time: 2021-08-09 13:14:00
+lastupdated: 2021-08-09 13:14:57
+        
+|<--------------------------------------------------------->|
+|------> End of Device hq-cedge01 data <---------|
+|<--------------------------------------------------------->|
+
+|<--------------------------------------------------------->|
+|------> End of Report data at 2021-08-09 13:14:58.239521 <---------|
+|<--------------------------------------------------------->|
