@@ -45,5 +45,8 @@ python3 app.py
 # Sample Reports
 Sample Reports generated with this code are here https://github.com/HusseinOmar/cisco-sd-wan-control-data-connection-check/tree/main/sample-reports
 
+# Other Files
+[templateHeaders-option[2].csv] can be used in option#2 to generate device list with custom headers
+
 # License
 CISCO SAMPLE CODE LICENSE
