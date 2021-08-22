@@ -42,3 +42,5 @@ pip3 install -r requirements.txt
 ```
 python3 app.py
 ```
+# License
+CISCO SAMPLE CODE LICENSE
