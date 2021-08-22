@@ -42,5 +42,8 @@ pip3 install -r requirements.txt
 ```
 python3 app.py
 ```
+# Sample Reports
+Sample Reports generated with this code are here https://github.com/HusseinOmar/cisco-sd-wan-control-data-connection-check/tree/main/sample-reports
+
 # License
 CISCO SAMPLE CODE LICENSE
