@@ -17,6 +17,8 @@ User will be prompt to choose from the following options:
 
 The generated reports will display only devices with issues and relevant information to troubleshoot.
 
+# Requirements
+
 To use this code you will need:
 
 * Python 3.7+
