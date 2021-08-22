@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/HusseinOmar/cisco-sd-wan-control-data-connection-check)
 # Cisco sd-wan-control-data-connection-check
 
 This repo is designed to provide a quick snapshot of the SD-WAN fabric Health.
